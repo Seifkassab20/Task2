@@ -14,12 +14,12 @@ y_test = df['loan_approved']
 y_pred = model.predict(x_test)
 acc = accuracy_score(y_test, y_pred)
 with open("metrics/metrics.json", "w") as f:
-    json.dump({"accuracy": acc}, f)
+    json.dump({"accuracy DT": acc}, f)
 
 cm = confusion_matrix(y_test, y_pred)
 plt.figure(figsize=(6,4))
 plt.imshow(cm, cmap=plt.cm.magma)
-plt.title("Confusion Matrix")
+plt.title("Confusion Matrix DT")
 plt.xlabel("Predicted")
 plt.ylabel("Actual")
 for i in range(cm.shape[0]):
