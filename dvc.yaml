@@ -14,13 +14,13 @@ stages:
       - train.py
       - data/train.csv
     outs:
-      - models/model.joblib
+      - models/Log.pkl
 
   validate:
     cmd: python validate.py
     deps:
       - validate.py
-      - models/model.joblib
+      - models/Log.pkl
       - data/test.csv
     outs:
       - metrics/confusion_matrix.png

@@ -20,3 +20,43 @@ stages:
       hash: md5
       md5: d5eedcd8a67586efe61cb353f8ab8a87
       size: 76105
+  train:
+    cmd: python train.py
+    deps:
+    - path: data/train.csv
+      hash: md5
+      md5: d5eedcd8a67586efe61cb353f8ab8a87
+      size: 76105
+    - path: train.py
+      hash: md5
+      md5: 689a489f595f182b05d429cfd9e2ffa2
+      size: 540
+    outs:
+    - path: models/DT.pkl
+      hash: md5
+      md5: 9594f191b093ee67fb53c11d44d2c3cc
+      size: 1833
+  validate:
+    cmd: python validate.py
+    deps:
+    - path: data/test.csv
+      hash: md5
+      md5: 3ae82523352e47e2401e27a19af2e63d
+      size: 32646
+    - path: models/DT.pkl
+      hash: md5
+      md5: 9594f191b093ee67fb53c11d44d2c3cc
+      size: 1833
+    - path: validate.py
+      hash: md5
+      md5: b560a858f19aa4bf1afbeb6aaad73b47
+      size: 929
+    outs:
+    - path: metrics/confusion_matrix.png
+      hash: md5
+      md5: 07350de69853449794c84c1bc17901e7
+      size: 17295
+    - path: metrics/metrics.json
+      hash: md5
+      md5: 0a9d74d7a5e1a1574391bac7a0249191
+      size: 32
