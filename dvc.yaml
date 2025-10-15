@@ -23,7 +23,7 @@ stages:
       - validate.py
       - models/model.pkl
       - data/test.csv
-    outs:
+    plots:
       - metrics/confusion_matrix.png
     metrics:
       - metrics/metrics.json
