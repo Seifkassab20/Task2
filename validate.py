@@ -1,28 +1,31 @@
 import os
-import pandas as pd
-import joblib
 import json
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
+import joblib
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.metrics import accuracy_score,confusion_matrix
 
-os.makedirs("models", exist_ok=True)
-df_train = pd.read_csv("data/train.csv")
-df_val = pd.read_csv("data/test.csv")
-x_train = df_train.drop(columns=['loan_approved', 'name', 'city'])
-y_train = df_train['loan_approved']
-x_val = df_val.drop(columns=['loan_approved', 'name', 'city'])
-y_val = df_val['loan_approved']
+os.makedirs("metrics", exist_ok=True)
+model = joblib.load("models/Log.pkl")
+df = pd.read_csv("data/test.csv")
 
-log = LogisticRegression(random_state=42)
-log.fit(x_train, y_train)
-y_pred_log = log.predict(x_val) 
-acc_log = accuracy_score(y_val, y_pred_log)
+x_test = df.drop(columns=['loan_approved', 'name', 'city'])
+y_test = df['loan_approved']
+y_pred = model.predict(x_test)
+acc = accuracy_score(y_test, y_pred)
+with open("metrics/metrics.json", "w") as f:
+    json.dump({"accuracy": acc}, f)
 
-joblib.dump(log, "models/logistic_regression_model.pkl")
-metrics = {"logistic_regression_accuracy": acc_log}
-
-with open("metrics.json", "w") as f:
-    json.dump(metrics, f)
-
+cm = confusion_matrix(y_test, y_pred)
+plt.figure(figsize=(6,4))
+plt.imshow(cm, cmap=plt.cm.magma)
+plt.title("Confusion Matrix")
+plt.xlabel("Predicted")
+plt.ylabel("Actual")
+for i in range(cm.shape[0]):
+    for j in range(cm.shape[1]):
+        plt.text(j, i, cm[i, j], ha='center', va='center')
+plt.tight_layout()
+plt.savefig("metrics/confusion_matrix.png")
+plt.close()
 print("Validation complete.")
