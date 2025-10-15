@@ -1,0 +1,29 @@
+stages:
+  preprocess:
+    cmd: python preprocessing.py
+    deps:
+      - preprocessing.py
+      - data/loan_approval.csv
+    outs:
+      - data/train.csv
+      - data/test.csv
+
+  train:
+    cmd: python train.py
+    deps:
+      - train.py
+      - data/train.csv
+    outs:
+      - models/model.joblib
+
+  validate:
+    cmd: python validation.py
+    deps:
+      - validation.py
+      - models/model.joblib
+      - data/test.csv
+    outs:
+      - metrics/confusion_matrix.png
+    metrics:
+      - metrics/metrics.json:
+          cache: false
