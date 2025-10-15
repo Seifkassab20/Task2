@@ -27,15 +27,19 @@ stages:
       hash: md5
       md5: d5eedcd8a67586efe61cb353f8ab8a87
       size: 76105
+    - path: params.yaml
+      hash: md5
+      md5: 10b7167490f75b9ab6ade55b52a40932
+      size: 22
     - path: train.py
       hash: md5
-      md5: 689a489f595f182b05d429cfd9e2ffa2
-      size: 540
+      md5: dc2be1ebbc2a52166dde4f58a9dda273
+      size: 699
     outs:
-    - path: models/DT.pkl
+    - path: models/model.pkl
       hash: md5
-      md5: 9594f191b093ee67fb53c11d44d2c3cc
-      size: 1833
+      md5: 7080e7f541ebf03f32e14b8c1bcee7b1
+      size: 1492
   validate:
     cmd: python validate.py
     deps:
@@ -43,20 +47,20 @@ stages:
       hash: md5
       md5: 3ae82523352e47e2401e27a19af2e63d
       size: 32646
-    - path: models/DT.pkl
+    - path: models/model.pkl
       hash: md5
-      md5: 9594f191b093ee67fb53c11d44d2c3cc
-      size: 1833
+      md5: 7080e7f541ebf03f32e14b8c1bcee7b1
+      size: 1492
     - path: validate.py
       hash: md5
-      md5: b560a858f19aa4bf1afbeb6aaad73b47
-      size: 929
+      md5: 99cd53496c06cbff942a20d4024b089a
+      size: 931
     outs:
     - path: metrics/confusion_matrix.png
       hash: md5
-      md5: 07350de69853449794c84c1bc17901e7
-      size: 17295
+      md5: eef15f1c77607998e4aa5fd64084756f
+      size: 17245
     - path: metrics/metrics.json
       hash: md5
-      md5: 0a9d74d7a5e1a1574391bac7a0249191
-      size: 32
+      md5: 9a0379eaa11dd7b9e9995a62a5f21656
+      size: 17

@@ -13,17 +13,17 @@ stages:
     deps:
       - train.py
       - data/train.csv
+      - params.yaml
     outs:
-      - models/Log.pkl
+      - models/model.pkl
 
   validate:
     cmd: python validate.py
     deps:
       - validate.py
-      - models/Log.pkl
+      - models/model.pkl
       - data/test.csv
     outs:
       - metrics/confusion_matrix.png
     metrics:
-      - metrics/metrics.json:
-          cache: false
+      - metrics/metrics.json

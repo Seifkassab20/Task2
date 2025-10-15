@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score,confusion_matrix
 
 os.makedirs("metrics", exist_ok=True)
-model = joblib.load("models/Log.pkl")
+model = joblib.load("models/model.pkl")
 df = pd.read_csv("data/test.csv")
 
 x_test = df.drop(columns=['loan_approved', 'name', 'city'])
