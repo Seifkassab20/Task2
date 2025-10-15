@@ -1,8 +1,8 @@
 stages:
   preprocess:
-    cmd: python preprocessing.py
+    cmd: python preprocess.py
     deps:
-      - preprocessing.py
+      - preprocess.py
       - data/loan_approval.csv
     outs:
       - data/train.csv
@@ -17,9 +17,9 @@ stages:
       - models/model.joblib
 
   validate:
-    cmd: python validation.py
+    cmd: python validate.py
     deps:
-      - validation.py
+      - validate.py
       - models/model.joblib
       - data/test.csv
     outs:

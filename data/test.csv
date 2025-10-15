@@ -1,0 +1,601 @@
+name,city,income,credit_score,loan_amount,years_employed,points,loan_approved
+Mary Richards,Joelside,130290,447,16496,10,55.0,0
+Evan Lamb,Lake Ariana,54050,808,10217,21,85.0,1
+Michael Wilcox,Waltersmouth,105529,698,32169,35,75.0,1
+Jose Hartman,Sharpmouth,74057,648,6627,20,65.0,1
+Samantha Roy,Osbornmouth,39359,802,12388,30,70.0,1
+Shirley Nelson,Christinastad,133710,469,10274,18,60.0,1
+Melissa Walker,Boydburgh,74236,752,42273,0,55.0,0
+Michael Martin,Oliviaburgh,45095,845,44287,36,65.0,1
+Tina Sanders,North Brittany,79615,548,7678,19,55.0,0
+Julia Williams,Johnnymouth,118381,603,2542,34,75.0,1
+Jason Daniels,Brownchester,75082,698,39278,1,50.0,0
+Faith Powers,Rachaelburgh,133891,675,34838,0,60.0,1
+Laurie Martin,Lake Tony,120673,756,28770,38,90.0,1
+Vanessa Salazar,South Andrea,51299,344,12199,21,45.0,0
+Robert Turner,Meganville,51798,533,9807,19,45.0,0
+Karen Morales DDS,Stephensstad,118039,849,39916,40,90.0,1
+Susan Jones,Dannyburgh,137272,320,36285,20,50.0,0
+Ronald Davis,Lake Joanneberg,135518,361,39434,35,50.0,0
+Charles Herman,New Patrickfurt,68780,525,3745,2,40.0,0
+Ryan Smith,Claireton,73713,686,49384,0,45.0,0
+Jeffrey Cook,Williamston,127248,850,12526,10,100.0,1
+Timothy Bauer,Elizabethborough,95107,546,31230,9,40.0,0
+Lucas Nielsen,Kelseyfort,138451,342,35261,39,50.0,0
+Maureen Bailey,Daymouth,57802,411,6624,11,45.0,0
+Erik Brown,East Annville,116363,695,10328,10,85.0,1
+Matthew Moore,Harringtonview,117841,646,41845,25,65.0,1
+Matthew Bell,Stephenberg,113606,585,44151,19,65.0,1
+April Little,Allenstad,56130,346,49222,20,35.0,0
+Kevin Bean,Ericland,90889,771,47380,30,75.0,1
+Emily Green,Johnfurt,121924,434,45019,19,50.0,0
+Evan Reyes,Grahamborough,66517,477,32121,8,30.0,0
+Brittany Barber,Oscarport,139041,764,19561,24,90.0,1
+Elizabeth Reese,Edwinborough,43473,409,9620,11,35.0,0
+Bethany Harding,South Lisastad,119016,647,15777,26,70.0,1
+Jack Mitchell MD,South Michael,72600,621,25489,5,50.0,0
+Stephen Sanford,Susantown,71180,444,9076,2,35.0,0
+Judy Peterson,Catherineview,90443,427,25678,35,45.0,0
+Maria Gardner,North Mikeberg,37816,481,9627,5,25.0,0
+Timothy Martin,Barbarastad,94789,391,5661,11,55.0,0
+Judy Sanchez,West Gabriella,130379,382,43843,2,40.0,0
+John Morales,South Jennifermouth,37331,375,6294,20,35.0,0
+Carla Hoover,Lake Richard,34082,538,14981,30,25.0,0
+Mary Jensen,Hopkinstown,39071,306,35879,35,25.0,0
+Mary Hernandez,East Kayla,134842,352,28497,19,55.0,0
+Michelle Newton,Michaelstad,129663,767,31964,34,90.0,1
+Adriana Davenport,Petersonhaven,92216,475,6585,17,55.0,0
+Kenneth Banks,Port Justin,66930,632,45118,32,50.0,0
+Gina Spencer,East Andrew,84921,568,7631,1,40.0,0
+Frederick Freeman MD,Matthewview,112397,310,34857,12,50.0,0
+Sherri Little,New Kristy,60433,645,12998,31,60.0,1
+Christopher Mccoy,Carrberg,91537,842,19474,21,90.0,1
+David Hudson,South Andrea,41226,645,17864,31,40.0,0
+Lauren Davis,Nicholsville,47892,533,48192,22,25.0,0
+Cynthia Williams,Lake Jesse,96542,402,28086,21,45.0,0
+Wendy Carroll,Bairdborough,82994,700,5175,34,80.0,1
+Amy Mccoy,Lake Edwardstad,82089,620,25841,7,55.0,0
+Desiree Mccoy,Lake Haileyton,64687,743,7582,33,80.0,1
+Ryan Pierce,Port Jennifershire,87779,604,37199,19,55.0,0
+Andrea Johnson,East Colin,94340,408,33730,30,45.0,0
+Joshua Henry,West Adamland,142898,601,44386,40,65.0,1
+Melanie Williams,North Stephen,49476,490,15520,20,30.0,0
+Nathan Chen,Jamesberg,77739,332,46364,36,40.0,0
+Michael Burke,Jacksonfurt,118815,512,15282,20,55.0,0
+Anthony Jacobson,Petersonport,145385,468,14015,22,60.0,1
+Sandra Lopez,West Tiffanyside,70966,305,38462,23,35.0,0
+John Boyd,Petersburgh,113819,402,19606,19,55.0,0
+Victoria Mendoza,Port Brittanyfurt,131946,795,43244,27,85.0,1
+Gabriela Pratt,Russellmouth,95836,435,23691,16,50.0,0
+Julie Jones,Port Erica,51417,706,37524,23,60.0,1
+Jennifer Ferguson,Lake Sarah,121422,679,3518,9,80.0,1
+Brittany Fleming,Lake Joshuaview,66208,328,47767,38,35.0,0
+Judy Robinson,Ericafurt,51579,404,1481,32,50.0,0
+Jaime Wallace,South Brandon,87939,749,27160,12,80.0,1
+Brian Hendricks,Sarahland,93372,302,10741,9,45.0,0
+Lisa Hammond,Michaelton,33201,834,14149,23,65.0,1
+Blake Watson,East Jeffreyhaven,42363,347,27275,4,15.0,0
+Michael Chavez,South Ashleystad,50706,690,2343,31,75.0,1
+Christopher Doyle,Gallagherberg,58683,750,4487,12,85.0,1
+Rhonda Martinez,Millerchester,139579,506,42105,9,45.0,0
+Crystal Wilkinson,Proctorview,34288,819,20127,8,60.0,1
+Angelica Keith,Port Steven,138711,688,23046,1,65.0,1
+Tonya Oliver,North Brian,58043,793,18911,38,75.0,1
+Randy Bates,Port Jason,89682,625,3867,36,70.0,1
+Nicole Scott,West Rachael,100912,702,8809,18,85.0,1
+Kristen Juarez,New Lisamouth,112242,551,21451,34,55.0,0
+Dalton Clark,North Sandraborough,88529,419,20034,0,35.0,0
+Amber Richardson,Josephfort,80940,751,30012,38,80.0,1
+Kimberly Scott,Lake Juliatown,78434,835,8722,33,90.0,1
+Kristen Rivera,Mullenbury,89177,714,42271,11,65.0,1
+Troy Lee,South Lauren,121655,455,28978,35,55.0,0
+Jeremy Faulkner,Harrisville,34705,342,26392,6,20.0,0
+Arthur Santana,Grayburgh,74396,683,3302,34,75.0,1
+Regina Roberts,Stephanieland,129871,654,29991,16,70.0,1
+Brandi Thomas,Mariafurt,37716,801,10317,36,70.0,1
+Jasmine Farmer,East Meghan,116646,565,5911,9,55.0,0
+Jacqueline Walker,New Jenniferstad,114518,674,2681,31,85.0,1
+Angela Chavez,Kaylamouth,86959,563,11614,4,40.0,0
+Steven Villanueva,Lake Brandonstad,70026,759,27796,40,75.0,1
+Brian Hoffman,East Robert,79968,845,41520,26,80.0,1
+Ryan Harrison,Mosleyland,82640,828,9308,16,90.0,1
+Sherry Stevens,Lake Christophermouth,100008,655,46895,19,60.0,1
+Kenneth Neal,Catherinehaven,33365,514,46084,6,20.0,0
+Brandi Page,New Amy,60828,630,47553,7,45.0,0
+William Ruiz,East Cameron,89614,742,45104,19,75.0,1
+Joshua Allen,West Meredith,135745,447,31344,3,45.0,0
+Ashley Smith,New Kristineborough,79857,429,42770,32,40.0,0
+David Moore,Reyesmouth,144206,513,46485,37,50.0,0
+Erin Madden,New Samanthabury,46828,516,46369,36,25.0,0
+Tyler Castro,East Amyside,91694,626,18763,9,60.0,1
+Mary Ferguson,Mahoneymouth,44663,632,25361,26,40.0,0
+Nicholas Kelley,Shawntown,80328,353,43033,11,40.0,0
+Kerry Williams,Amberhaven,83476,470,25541,10,45.0,0
+Wesley Medina,Lake Juliefurt,90258,563,42040,40,40.0,0
+Autumn Thomas,Petersonside,34877,450,27622,37,25.0,0
+Dominic Johnson,Donnaburgh,110120,343,48348,31,45.0,0
+Carlos Thompson,East Johnnyport,37685,581,28774,24,40.0,0
+Richard Randall,Matthewshire,102768,740,16848,35,90.0,1
+Erik James,West Bryanside,44993,494,26437,27,25.0,0
+Jamie Gross,Davidtown,85296,700,38190,2,55.0,0
+Erika Allen,West Teresa,149646,496,22954,33,55.0,0
+Kathleen Brady,Erintown,60947,708,43175,11,60.0,1
+Aaron Armstrong,Port Williamhaven,86822,837,17962,19,90.0,1
+Jeffrey Fuller,North Christine,92402,380,38473,24,40.0,0
+Timothy Woods,Jefferyshire,69240,575,12978,12,45.0,0
+Victoria Thomas,Port Christopher,121303,640,42355,11,65.0,1
+Maria Foster,Christieton,99942,589,22234,36,65.0,1
+Jesse Williams,Dakotahaven,111416,580,49621,16,60.0,1
+John Tate,Lindsayfurt,141863,510,27234,11,55.0,0
+Victoria Delgado,West Robertborough,36734,642,4892,8,45.0,0
+Sara Cardenas,Sheppardfort,115477,541,32212,19,50.0,0
+Meagan West,New Anthony,107182,410,23460,3,45.0,0
+Sean Dixon,New Madelinetown,108116,725,31808,5,70.0,1
+Kevin Anderson,Michaelshire,73933,327,41970,21,35.0,0
+David Novak,Barkerberg,35778,680,6864,15,60.0,1
+Laura King,Brendahaven,117500,316,8466,29,60.0,1
+Natalie Logan,Shelbyfurt,131671,333,44061,9,45.0,0
+Robert Ramirez,Stephanieshire,59949,688,29674,4,50.0,0
+Christina Garza,Port Robertside,38330,599,7688,26,50.0,0
+Kevin Hoffman,North Matthew,77823,489,43499,36,40.0,0
+Craig Obrien,Frankberg,118389,630,2111,7,70.0,1
+Phillip Anderson,Rachaelchester,35224,703,36003,4,40.0,0
+Michael Montoya,Bensonfort,61195,372,16004,24,40.0,0
+Michelle Graham,Lake Elizabethside,148509,609,47472,13,65.0,1
+Jennifer Woodard,Farmerside,101121,383,43539,4,35.0,0
+Diana Campbell,Harrisview,86881,324,44990,17,40.0,0
+Brandon Montgomery,North Michaelberg,30464,849,8038,8,65.0,1
+Susan Baldwin,North Charlesshire,133078,556,30221,1,40.0,0
+Kelsey Mason,Williamsport,68175,608,2588,14,65.0,1
+James Hall,Reedview,94042,493,48515,7,35.0,0
+Rachel Carlson,Micheleberg,72504,433,36403,16,35.0,0
+Jamie Galvan,Samanthachester,34373,395,44115,21,25.0,0
+Tammy Fitzgerald,South Austin,91644,670,42350,1,50.0,0
+Jenna Lyons,Kristinamouth,70001,764,32949,1,55.0,0
+William Howard,West Rachel,46551,837,26599,32,65.0,1
+Robert Garcia,Nicoleberg,66500,691,9725,9,65.0,1
+Karla Ramos,Jasonhaven,104341,416,23621,27,55.0,0
+Richard Hernandez,Christophershire,106350,350,36923,25,50.0,0
+Wendy Salazar,South Kayla,135110,340,30815,37,55.0,0
+Becky Wilson,Waltersland,143325,836,47352,24,90.0,1
+Elizabeth Brown,Blankenshipchester,43979,379,40206,18,25.0,0
+Kelly Jenkins,New Heather,135710,484,48002,31,50.0,0
+Sarah Green,Davidville,98327,759,20527,36,85.0,1
+Jacob Anderson,Markchester,125568,479,14159,8,50.0,0
+Keith Fuller,South Kimberly,59816,747,7294,8,75.0,1
+Stephanie Gomez,Lake Amyland,96263,696,17183,2,65.0,1
+Robin Wallace,New Pamelaville,67072,619,20099,6,50.0,0
+Bruce Barr,West Courtney,144084,606,46007,27,65.0,1
+Sandra Phillips,Lake Jasmineville,111987,755,29328,31,85.0,1
+Cindy Clayton,Sarahview,53416,440,8158,39,45.0,0
+Jenna Lynch,Denniston,91797,378,21396,38,50.0,0
+Joanna Preston,Brendaport,70135,843,24085,25,80.0,1
+Chad York,Barnesmouth,86531,525,20343,38,50.0,0
+Bethany Baxter MD,Scotttown,106724,579,30236,8,45.0,0
+Jillian Stewart,New Josephberg,54878,411,19578,5,35.0,0
+Michael Brown,North Robert,37492,794,38286,28,60.0,1
+Edward Butler,Nguyenton,139570,414,24412,2,45.0,0
+Michelle Fitzgerald,Charlesside,130931,360,4415,21,60.0,1
+Nathan Allen,Gilesborough,87132,630,9693,18,65.0,1
+Tyler Wall,Aprilbury,32560,374,40319,39,25.0,0
+Jordan Porter,Williamsshire,81879,607,17884,6,60.0,1
+Corey Mitchell,Silvaport,55928,676,41927,25,60.0,1
+Evan Moreno,West Darryl,132029,345,9380,31,60.0,1
+Marcus Weaver,East Davidton,66666,638,3222,38,65.0,1
+Melissa Jordan,Dunnville,137756,748,8732,39,95.0,1
+Adrian Rodriguez,Lake Taratown,128992,514,32530,9,45.0,0
+Ronald Davenport,Troymouth,83225,529,2758,0,40.0,0
+Rebecca Newman,West Christopher,117177,712,10028,27,85.0,1
+April Thompson MD,Erikastad,127605,389,3649,10,60.0,1
+Joseph Garcia,Hallside,87733,638,2477,14,70.0,1
+Kelsey Williams,Hopkinshaven,79856,751,21770,17,80.0,1
+Megan Peters,East Barbaramouth,64970,662,5339,9,60.0,1
+Shannon Mccann,West Malik,120422,505,32392,20,50.0,0
+Melissa Stevenson,Rebeccamouth,101118,519,13067,20,55.0,0
+Victor Baxter,Lake Michelle,108504,421,12696,34,55.0,0
+Curtis Johnson,South Cheryl,74118,374,30846,26,35.0,0
+Krystal Brennan,Lake Jessica,31220,667,3648,14,50.0,0
+Carrie Strong,South Jerry,61499,429,34046,7,30.0,0
+Beth Carroll,Millerhaven,50028,508,10330,23,45.0,0
+James White,North Fredville,117410,451,33527,9,45.0,0
+Andrew Blake,Port Devin,146318,627,22164,24,70.0,1
+Carol Mcintosh,Elizabethland,148034,610,14031,30,75.0,1
+Zachary Gonzalez,New Elizabethborough,85518,784,26501,19,80.0,1
+Kathleen Jimenez,Lauriechester,50969,380,29220,38,35.0,0
+John Peterson,North Jeffery,132990,815,15490,12,95.0,1
+Melissa Montgomery,Stanleybury,92493,793,23659,24,80.0,1
+Ms. Jennifer Hill,Lake Erika,145175,807,4072,22,100.0,1
+Eric Lopez,Port Marciachester,143411,820,35339,11,95.0,1
+Dawn Johnson,Lake Tommystad,130022,385,14602,33,55.0,0
+Keith Cervantes,Port Ian,62177,443,35566,19,35.0,0
+David Leblanc,Mortonside,108907,400,4315,34,60.0,1
+Mark Jimenez,Mackenzieville,60647,725,1201,39,75.0,1
+Brian Gould,Lyonsstad,100284,471,40707,38,45.0,0
+Tracey Wagner,Ortizfort,102603,725,47539,28,70.0,1
+Joseph Shaw,New Shelly,119166,457,12219,39,55.0,0
+Alexander Velazquez,South Sarah,55144,459,1281,34,50.0,0
+Kelly Aguirre,West Kathyfurt,139273,447,6528,10,60.0,1
+Robert Gill,Kathleenport,62951,764,43945,9,65.0,1
+Cynthia Haas,Lake Nicole,66509,390,47462,40,35.0,0
+Angela Vasquez,West Tara,141767,351,34222,14,55.0,0
+Ryan Guerrero,Lake Courtneybury,116563,440,39426,24,50.0,0
+Daniel Robinson,Debrastad,53819,344,5412,13,45.0,0
+Douglas Harper,Mitchelltown,130741,410,29241,8,50.0,0
+Victoria Williams,Blackton,111351,494,20082,28,55.0,0
+Mary Bray,Kendrafort,89473,531,7016,16,55.0,0
+Mallory Powell,South Timothyton,42978,712,33536,15,50.0,0
+Jay Alvarado,Lake Theresa,44150,705,46644,39,50.0,0
+Megan Hoffman,Lake Deborah,104668,698,16571,32,80.0,1
+Sarah Phelps,Finleyfort,64993,336,41465,4,25.0,0
+Jennifer Ross,Kerrybury,31061,466,41832,30,25.0,0
+Anthony Hayes,Port Kim,125748,462,33084,5,45.0,0
+Kyle Mullins,Clarkmouth,88138,554,27921,8,40.0,0
+James Davis,South Marcus,96540,554,1447,16,55.0,0
+Suzanne Lynch,West Mary,58705,528,30443,16,35.0,0
+Steve Keller,Whitemouth,127609,324,46479,13,50.0,0
+Stacy Hudson,East Pamela,115097,410,13121,14,55.0,0
+Pamela Key,North John,142941,546,18467,34,55.0,0
+Catherine Smith,Jasonfort,96317,586,40749,6,50.0,0
+Kevin Cannon,North Jamesport,139540,478,15348,16,55.0,0
+Mitchell Hunt,Pattersonville,91605,406,10567,16,50.0,0
+Madison Chen,West Alicemouth,139392,453,22419,32,55.0,0
+Katie Myers,Garzafurt,111167,661,19640,20,70.0,1
+Chloe Lindsey,Johnfurt,141642,733,46917,0,60.0,1
+Kenneth Huff,Foxshire,87912,562,4216,23,55.0,0
+Jessica Mcmahon,Clarkmouth,117670,330,25556,8,50.0,0
+William Hall,Port Michael,111973,440,29812,7,45.0,0
+Stephen Taylor,Watsonside,113886,729,39491,9,70.0,1
+Michael Spencer,Jennifermouth,140082,652,1517,17,75.0,1
+Danielle Mcfarland DVM,West Danielfort,149236,380,28687,3,45.0,0
+Jessica Garrett,North Kevin,146840,774,10710,30,95.0,1
+Charles Andrade,Kyleburgh,87377,541,14324,27,50.0,0
+Nicholas Villegas,Lake Charlotte,120520,768,12999,28,90.0,1
+Brandon Davis,South Christian,97391,531,35042,28,45.0,0
+Christy Frank,Wilsonfort,124381,427,23977,29,55.0,0
+Matthew Watts,Robertville,67353,458,28923,37,35.0,0
+Andrea Fischer,East Timothy,149659,464,16890,25,55.0,0
+Candace Stuart,Sethberg,79674,647,20060,23,60.0,1
+Stephanie Browning,Forbesberg,62706,461,21807,4,30.0,0
+Brian Mendoza,West Katrina,137549,430,34288,6,50.0,0
+Kelsey Kelly,Warnerview,64782,808,2945,13,90.0,1
+Pamela Klein,Walkertown,122141,706,16211,28,80.0,1
+Benjamin Soto,East Edwardshire,39116,611,6582,15,50.0,0
+Penny West,North Christopher,107812,755,2468,34,95.0,1
+Victoria Valdez,Lake Lisaport,58893,406,9800,16,45.0,0
+Loretta Miller,Fordview,120794,368,30457,24,50.0,0
+Autumn Graham,Barneshaven,137784,322,11940,38,60.0,1
+Matthew Maddox,Charleschester,67667,322,20494,2,30.0,0
+Morgan Kim,Banksburgh,48373,665,15630,37,45.0,0
+Bobby Scott,New Shelby,48131,840,28738,7,60.0,1
+Molly Watts,New Thomasshire,89470,533,48277,3,30.0,0
+Jeffrey Rogers,Lake Ronald,131533,608,41944,18,65.0,1
+Deborah Ramirez,Lake Mariah,116846,365,9686,33,60.0,1
+Joshua Horne,Morganfurt,141777,735,39425,33,75.0,1
+Mr. Nicolas Salas II,Port John,116951,664,11223,6,70.0,1
+Jeremy Coleman,Scottbury,39681,575,25025,16,25.0,0
+Manuel Cole,North Darlenemouth,44996,546,43182,38,25.0,0
+Sharon French,New Cesarfurt,42999,751,32075,32,60.0,1
+Donald Flores,Lambertview,142537,452,11321,17,60.0,1
+Antonio Mueller,Port Amber,146691,667,30661,6,65.0,1
+Shawn Walker,Danaburgh,60613,697,17856,10,65.0,1
+Brian Martin,Wongburgh,140319,314,49274,21,50.0,0
+Luis Patterson,Port Jamesport,141057,580,2851,36,75.0,1
+Christopher Stone,South Jamesberg,125164,645,30797,35,70.0,1
+Brianna Dyer,Proctorberg,39099,386,9992,26,30.0,0
+Grant Medina,Mcleanville,30150,783,9800,4,55.0,0
+Keith Chaney,Reedport,91433,512,23425,32,45.0,0
+Sara Calhoun,South Brittanytown,135791,385,43123,27,50.0,0
+Lori Brooks,Lake Lauraland,60007,712,34791,17,60.0,1
+Jason Keith,West Joshua,47322,736,1902,30,65.0,1
+Zachary Pierce,Jacquelineview,142945,613,17475,14,70.0,1
+Brenda Mitchell,Hortonberg,58746,780,30399,39,70.0,1
+Christine Mendez,Aprilview,111927,783,31335,13,85.0,1
+Wesley Douglas,Wilsonton,133877,537,14267,9,50.0,0
+Rebecca Finley,North Tammybury,96698,669,39018,38,55.0,0
+Christopher Ward,North Melanieview,90236,410,36945,34,40.0,0
+Melissa Larson,South Kara,53509,668,3348,5,60.0,1
+Joshua Jensen,Christopherland,105525,823,14316,9,90.0,1
+Belinda Mccullough,Elizabethmouth,66421,712,46692,18,60.0,1
+George Ruiz,New Mathew,138851,533,29234,35,55.0,0
+Bobby Becker,Jacobmouth,101364,794,12658,21,90.0,1
+Jodi Anderson,Morrisonhaven,118501,606,46973,35,65.0,1
+Julie Lucas,Lake Vincentburgh,50257,438,26760,26,35.0,0
+Joseph Hill,New Kellyberg,55203,802,7723,0,70.0,1
+Matthew Miller,New Patricia,110623,576,11836,38,55.0,0
+Dennis Gonzales,Dianahaven,50758,645,23102,11,50.0,0
+Alyssa Cherry,New Shannon,128430,554,25224,37,55.0,0
+Johnny Arnold,East Tony,132659,529,22843,24,55.0,0
+Timothy Evans,Mcgrathbury,35965,566,41157,28,25.0,0
+Janet Gibson,Valdezfurt,62816,732,4572,19,75.0,1
+Crystal Quinn,Johnside,72840,355,44581,15,35.0,0
+Timothy Walls,South Christineshire,101426,402,5801,34,60.0,1
+Linda Miller,West Elizabeth,121905,624,1929,9,70.0,1
+Brittany Spencer,Kathrynburgh,31231,692,14313,34,50.0,0
+Lisa Flynn,Leeland,68974,718,28592,32,60.0,1
+Jacob Shelton,New Elizabeth,103920,527,7985,25,60.0,1
+Sylvia Nielsen,Gonzalezmouth,76507,366,21793,21,45.0,0
+Joseph Jackson,Lake Michaelmouth,113130,787,31617,34,85.0,1
+Thomas Green,North Deanna,124203,324,4439,14,60.0,1
+Chelsea Norris,Lake Bradleyshire,42903,745,37630,31,60.0,1
+Debbie Arias,Jacksonside,146052,648,49139,31,65.0,1
+Jason Rodriguez,New Daletown,88153,560,37074,10,40.0,0
+Andrew Graham,West Ryan,74597,638,41839,20,50.0,0
+Carla Peterson DDS,South Vickie,139882,659,2952,21,75.0,1
+Austin Allen,Port Bonniemouth,36175,436,3905,22,35.0,0
+Jessica Forbes DVM,Erikview,73309,395,43899,23,35.0,0
+Kyle White,Mcbrideville,70768,340,9442,36,45.0,0
+James Hamilton,Port Dennis,102420,502,32972,25,50.0,0
+Toni Osborne,Amandaside,69535,813,15939,39,85.0,1
+John Russo,Kimberlyberg,80140,400,34826,8,35.0,0
+Scott Atkinson,Lewisville,90981,383,27773,28,45.0,0
+Jason Colon,West Gloria,62092,541,27598,15,35.0,0
+Linda Ayala,Tracyshire,111183,666,5776,20,75.0,1
+Alexander Chavez,South Christopher,61029,631,46332,10,50.0,0
+Mitchell Hughes,South Lisa,140761,807,40679,11,90.0,1
+Caitlin Chandler,West Timothyport,138704,503,24620,3,45.0,0
+Kimberly Smith MD,Timothyfort,74473,652,38070,32,50.0,0
+Gina Medina,Joseside,59571,439,12685,2,35.0,0
+Steven Klein,North Stacy,100855,759,12329,10,90.0,1
+Joanna Frazier,Davidside,102512,486,9456,27,60.0,1
+John Ashley,Jeanport,59045,778,49837,31,70.0,1
+Samantha Carter,Moorestad,78311,597,3773,11,70.0,1
+James Barber,East Scott,90482,582,22461,0,50.0,0
+Melissa Horn,Robinsonchester,148675,516,33421,17,55.0,0
+Michelle Stewart,North Jonathan,44896,813,3483,37,80.0,1
+Natalie Martinez,Jasonhaven,130376,619,35166,21,65.0,1
+Laura Craig,Andradeburgh,31267,484,37042,25,25.0,0
+Katrina Russell,East Carol,80140,594,33580,4,45.0,0
+Jacqueline Mcmahon,Willismouth,88800,609,22142,8,60.0,1
+Laura Payne,New Ambertown,85872,710,31259,35,70.0,1
+Gail Nelson DVM,Hopkinsmouth,34852,332,9562,39,30.0,0
+Taylor Walker,Port Kimberlyfort,63586,701,20601,10,65.0,1
+Jeremy West,Christinachester,119192,581,42908,3,55.0,0
+Sarah Hopkins,South Krista,139280,465,7571,13,60.0,1
+Craig White,Lake Austin,61365,543,11609,25,45.0,0
+Mrs. Chelsea Villa,Gibsonside,113611,583,34496,36,65.0,1
+Ashley Gordon,Lake Kristahaven,131711,608,31018,1,55.0,0
+Aaron Jennings,Randyshire,126345,329,12510,12,60.0,1
+Danny Smith,Burkefurt,60775,364,4614,7,45.0,0
+Jamie Fields,West Jenniferview,77942,842,10827,25,90.0,1
+Erika Castro,Port Jason,143365,815,29842,17,95.0,1
+Alyssa Thompson,Lake Shannonberg,31607,504,13826,16,25.0,0
+Raymond Thompson,Gonzalesborough,69651,830,19743,12,80.0,1
+Matthew Anderson,Josemouth,91213,702,46922,20,65.0,1
+Michael Graham,Williamsstad,53053,796,30999,31,70.0,1
+Sharon Barnes,Port Mark,128419,620,13440,10,70.0,1
+Thomas Curry,Bryanfort,119065,473,38542,3,40.0,0
+Marcia Johns,Staceyborough,64760,759,40749,30,70.0,1
+William Arnold,North Joseph,144879,679,35211,16,80.0,1
+Jordan Williams,East Brandonstad,83354,692,10835,11,75.0,1
+Jonathan Perez,Ryanport,92616,533,2405,3,45.0,0
+Misty Hansen,New Adriana,57760,689,12108,8,65.0,1
+Wendy Griffin,Petersmouth,141718,621,8061,17,75.0,1
+Thomas Morales,Stephensland,121289,775,1697,13,95.0,1
+Jason Henry,Yumouth,102357,456,29540,11,50.0,0
+Samuel Harris,Lake Daisy,142740,830,10687,39,100.0,1
+Brandon Lopez,South Donna,119364,682,37527,16,75.0,1
+Elizabeth Baker,North Samantha,59817,331,32228,11,35.0,0
+Scott Henderson,Cherylfurt,50676,508,28081,35,35.0,0
+Julie Parker,Michellehaven,128174,843,34109,1,75.0,1
+Laurie Roberts,Port Loriland,44293,708,18041,19,50.0,0
+Emily Crawford,Port Patrick,61946,571,47359,31,35.0,0
+Darrell Duke,West Shannonville,96550,836,17893,1,75.0,1
+Adriana Smith,Anthonyville,146869,445,20043,28,55.0,0
+Rodney Newton MD,Cherylborough,141587,423,26748,13,55.0,0
+Kimberly Campos,West Marvinchester,76179,364,32097,26,40.0,0
+Taylor Flores,Chaseberg,145255,629,47034,15,65.0,1
+Daniel Hill,Kingshire,84321,357,33136,34,45.0,0
+Stephen Kim,East Jennifer,62914,699,25796,14,60.0,1
+Mrs. Ashley Shaffer,New Troy,123926,744,44622,17,85.0,1
+Allen Berger,North Patrickland,56158,736,26684,11,60.0,1
+Colton Lawson,Reynoldsburgh,50232,799,44633,3,60.0,1
+Maria Malone,Davishaven,121891,602,10514,34,75.0,1
+Ashlee Miller,East Amberfort,132014,394,46703,9,45.0,0
+Angel Powers,Coreyshire,81876,798,22682,22,80.0,1
+Kevin Gonzales,East Maryfurt,97000,734,15042,32,75.0,1
+Edward Baker,Shawnhaven,113507,688,49080,11,70.0,1
+Cynthia Washington,West Ronniefort,139999,402,49121,24,50.0,0
+Emily Miller,East Sonia,49528,584,47618,9,35.0,0
+Gail Johnson MD,Port Elizabethtown,124924,331,6481,20,60.0,1
+Willie Henry,Angelafurt,64741,742,13172,37,80.0,1
+Lisa Diaz,West Jennifer,64335,696,13443,33,70.0,1
+Mary Davis,Holdertown,49973,464,22397,24,25.0,0
+Tracy Grant,South John,70306,508,22644,5,35.0,0
+Gail Wilson,North Anna,88446,798,17896,21,85.0,1
+Julie Patel,Shannonstad,70538,367,13343,29,45.0,0
+Sarah Rivera,Moranstad,96562,763,8472,6,85.0,1
+Katelyn Park DDS,Shawnside,134573,459,31799,9,50.0,0
+Jason Price,Adamland,139022,360,24031,35,55.0,0
+Paul Contreras,Lake Mauriceside,36630,723,39648,14,50.0,0
+Chelsea Campbell,Port Josephbury,99827,739,14003,30,75.0,1
+Daniel Roberson,North Carmen,129973,340,36378,34,50.0,0
+Karen Ortiz,New Carolbury,145528,584,41616,40,65.0,1
+Nicole Owen,Kellyfurt,52241,796,34516,17,70.0,1
+John Johns,New Brandonborough,137795,546,39883,5,45.0,0
+Danielle Thompson,West Justin,79692,759,42654,12,75.0,1
+Nathan Freeman,Lake Thomas,111070,802,30371,1,75.0,1
+Larry Walsh,Thomasview,45915,431,22160,34,25.0,0
+Sarah Rhodes,Patrickberg,102063,380,33819,22,50.0,0
+Shannon Mcclure,Robinsonhaven,42156,775,4291,35,70.0,1
+James Cole,Marciaville,74587,431,7336,25,50.0,0
+Kelly Sandoval,Port Loriport,35943,303,23589,26,25.0,0
+Matthew Yoder,North Heather,108193,559,20304,29,55.0,0
+Dillon Jones,East Kimberly,143224,411,11184,6,55.0,0
+Steven Smith,West Jeffreyborough,73228,529,10836,17,45.0,0
+Michael Hill,Warrenborough,73540,359,8163,36,45.0,0
+Alicia Perez,Hernandezbury,111609,634,35889,29,65.0,1
+Haley Peters,Lake Moniquefort,78629,693,4125,10,80.0,1
+Michael Cordova,East Nicoleburgh,146578,540,25191,23,55.0,0
+Christopher Jones,Robertaborough,88743,700,7597,31,80.0,1
+Jennifer Edwards,Lake Christopherbury,112213,395,11820,36,55.0,0
+Melissa Sanchez,Williamsmouth,105392,681,3509,9,80.0,1
+Erica Keith,Pettybury,38907,580,27074,21,40.0,0
+Mark Knight,Jaytown,38968,617,1810,13,55.0,0
+Jennifer Monroe,North Jameshaven,70319,451,48772,17,35.0,0
+Sara Evans,North Danielburgh,33248,465,45046,18,25.0,0
+Nancy Rowland,South Samuelfurt,68652,511,16918,18,45.0,0
+Angela Dixon,Port Timothychester,89186,441,13778,20,50.0,0
+Rebecca Gray,East Brandy,76112,422,9276,20,50.0,0
+Kyle Thompson,Parsonsland,124156,774,43618,24,85.0,1
+Austin Williams,Stephenhaven,124163,836,23140,27,95.0,1
+Kenneth Turner,South Norman,46547,336,46566,17,25.0,0
+Christopher Fleming,East Jill,107924,422,25720,2,45.0,0
+Lawrence Edwards,Jessicastad,145970,708,9569,23,85.0,1
+James Trujillo,Caldwelltown,65838,521,38154,11,35.0,0
+Stephanie Soto,Jensenport,137031,640,13985,34,70.0,1
+Heather Mcmahon,Stephensonmouth,131652,763,30090,24,90.0,1
+Virginia Todd,East Saramouth,145885,801,46079,20,90.0,1
+Matthew Richardson,North Christopherfort,45012,821,15741,1,55.0,0
+Richard Erickson,Obrienfurt,68254,343,40430,6,30.0,0
+Amy Estrada,Hernandezchester,128059,678,26304,23,80.0,1
+Christopher Brooks,Lewisbury,91592,313,3364,1,40.0,0
+Kevin Warren,Harrellmouth,95435,526,22827,10,50.0,0
+Nathan Mcgee,Woodsburgh,142424,652,43195,9,60.0,1
+Rhonda Smith,Lake Roberto,33278,584,11189,13,45.0,0
+Briana Nguyen,Matthewchester,111057,683,31846,18,75.0,1
+David Nichols,Port Maryton,131498,506,2136,17,60.0,1
+Donald Espinoza,South Caroline,101643,780,2590,36,95.0,1
+Nathaniel Crawford,Vegaburgh,37944,662,15071,11,45.0,0
+Grace Johnson,Port Wendy,111205,499,12180,10,55.0,0
+Robin Wright,Zamoramouth,111691,823,7264,24,100.0,1
+Rachel Owen,East Paultown,101200,393,10524,30,55.0,0
+Hector Davis,Michelletown,85461,598,28119,24,60.0,1
+Jennifer Washington,Lorihaven,93653,462,5300,19,55.0,0
+James Stevens,East Angelaport,117012,468,33209,27,50.0,0
+Amy Smith,Murphystad,119687,409,1337,22,60.0,1
+Tina Meyer,South Amy,40745,713,7025,22,60.0,1
+James Flores,Faulknerbury,56365,633,25645,17,50.0,0
+James Love,Foxchester,62953,375,9213,20,45.0,0
+John Mckay,Lake Victoriaborough,129775,428,7013,11,60.0,1
+Douglas Owens,Kylestad,145082,825,33589,29,95.0,1
+Randall Porter,Lake Amandashire,36590,475,17511,6,20.0,0
+Teresa Burgess,North Stephen,71467,639,3482,5,60.0,1
+Dr. Stephen Hall IV,North David,135150,776,41990,7,80.0,1
+Curtis Obrien,Port Robertfort,148863,610,16382,13,70.0,1
+Robert Freeman,Rossport,133262,420,29539,18,55.0,0
+Matthew Williams,Lake Rebecca,113442,560,26874,16,55.0,0
+Kyle Black,New Gavin,110173,336,24575,15,55.0,0
+Robert Cisneros,New Tara,39171,535,6667,26,35.0,0
+Ronald Mcclain,North Dawnburgh,95909,817,31755,31,85.0,1
+Nicholas Hahn,South Lauren,70857,370,27813,31,40.0,0
+Brandon Mcclain,Lake Lee,94178,349,36015,1,30.0,0
+Lisa Lopez,Lake Stephanie,119873,845,49454,36,85.0,1
+Michael Bender DVM,Lake Shannon,131276,611,22661,14,70.0,1
+Mark Jones,North Jeffery,136957,766,25458,3,80.0,1
+Jessica Brown,Alexanderhaven,106569,529,44898,21,45.0,0
+Joel Cook,Jonathantown,90552,443,8811,26,55.0,0
+Wesley Rich,South Ronaldview,95597,710,39867,1,50.0,0
+Sheena Burton,Mccannville,30053,682,34588,36,50.0,0
+Heather Jordan,East Joshua,58080,386,17263,35,40.0,0
+Eric Williams,North Kelseyborough,86179,555,25552,15,45.0,0
+Maria Byrd,Denisehaven,148284,320,45708,0,35.0,0
+James Bennett,South Ryanmouth,41846,722,12470,0,40.0,0
+Priscilla Kent,Lake Lisa,107992,406,26389,38,55.0,0
+Kevin Davis,East Raymondberg,30371,455,8573,13,30.0,0
+Chad Roach,Mannside,131072,601,36568,31,65.0,1
+Robert Pearson,Williamport,135717,743,44480,34,85.0,1
+Travis Stewart,Wellsbury,146147,584,10496,23,75.0,1
+James Walsh,Port Jasonport,43710,451,39288,0,10.0,0
+Heather Rhodes,Rodgersville,37989,346,1633,8,35.0,0
+Marcus Ramirez,Allenbury,117404,573,37216,22,50.0,0
+Kelly Burton,Robertside,83528,435,32057,22,45.0,0
+Javier Schultz,Lake Kathleenmouth,118647,468,45652,17,50.0,0
+Brittney Johnson,Ericview,148479,675,39152,15,75.0,1
+Jill Wiley MD,Dawnton,89598,833,28190,18,85.0,1
+Julie Preston,Lake Mark,97952,486,43456,36,40.0,0
+Michael Marquez,Jamesmouth,48758,832,12364,7,65.0,1
+Kerry Murphy,South Toddton,39632,325,39936,36,25.0,0
+Kathleen Martinez,South Timothyville,101228,534,3492,24,60.0,1
+Tammy Little,Williamville,91348,505,10101,15,50.0,0
+Chad Moreno,Haroldport,147868,685,25578,17,80.0,1
+Chad Koch,North Jennifer,43176,446,49041,12,25.0,0
+Terri Johnson,North Kylie,44371,342,21682,19,25.0,0
+Holly Carson,Port Jenniferside,58864,523,28862,6,30.0,0
+Deanna Webb,Lake Holly,77795,318,25681,37,45.0,0
+Paul Matthews,New Brycechester,141989,465,49008,12,50.0,0
+Megan Wilson,Powellberg,142513,485,3742,7,55.0,0
+Diana Wheeler,East Lisa,116275,744,32679,17,85.0,1
+Jennifer Williams,West Samuelchester,40561,324,35596,20,25.0,0
+Jenna Wilson,New Wendy,123447,484,45676,35,50.0,0
+Jason Clarke,New Mackenzie,112155,512,30392,10,50.0,0
+Walter Roberts,Port Teresaborough,94251,707,33442,34,70.0,1
+Donna Boyd,East Gregoryport,135458,813,41740,2,80.0,1
+Traci Garcia,New Kimberlyport,128771,848,23535,26,95.0,1
+Michelle Barrett,North Misty,131677,468,17423,26,55.0,0
+Kristin Norris,South Stevenland,106019,419,9600,1,45.0,0
+William Patterson,Port Leahstad,148119,483,1837,31,60.0,1
+Keith Smith,Ayalamouth,120128,806,8766,14,100.0,1
+Karen Smith,Yatesbury,94032,307,36927,23,45.0,0
+Bryan Moore,Margaretton,37100,520,22482,9,20.0,0
+Jennifer Hall,Morganton,74020,753,49228,17,70.0,1
+Matthew Wilson,Huberville,39838,655,46676,25,40.0,0
+Tyler Campbell,New Matthewstad,100539,386,3840,38,60.0,1
+Mrs. Olivia Petersen,Hillside,98347,428,1022,32,55.0,0
+Alec Hickman,Johnbury,107397,380,6613,31,60.0,1
+Gregory Parker,Sawyerland,148332,520,48700,28,50.0,0
+Emily Reyes,South Jesus,65774,377,24533,5,35.0,0
+Steven Price,Christophertown,84239,702,25311,19,70.0,1
+Shannon Weber,Amberburgh,43173,442,14488,25,30.0,0
+Dr. Nicole Singh DVM,Port Kevinstad,33804,713,27591,37,50.0,0
+Laura Bennett,Diazland,103792,829,17487,24,95.0,1
+Sean Chapman,North Adamtown,146403,768,27494,11,90.0,1
+William Grant,Kariborough,44621,821,27305,32,65.0,1
+Rachel Johnson,Lake Scott,37026,764,8486,1,55.0,0
+James Griffith,Briggsville,90931,737,48625,17,65.0,1
+Amy Ware,North Brandonport,73357,376,18283,21,45.0,0
+David Nguyen,Davidshire,97449,781,4014,24,90.0,1
+Christian Riddle,Graybury,79192,379,18702,7,45.0,0
+Charles Francis,Stacystad,87954,660,11522,32,65.0,1
+Joshua Shepard,Port Michaeltown,103584,645,16574,31,70.0,1
+Anthony Murray,North Christopher,77453,356,11378,1,35.0,0
+Tonya Potter,Lake Dianaland,78566,665,12733,15,65.0,1
+Lori Johns,New Stacybury,76898,455,23399,25,45.0,0
+Kyle Reed,Samuelhaven,85392,418,26244,36,45.0,0
+Eric King,Lake Rodney,82296,686,5847,28,80.0,1
+Joshua Mills,Danielburgh,97715,769,29074,23,80.0,1
+Michael Mitchell,Lake Christopher,121988,400,42533,6,45.0,0
+Michelle Harrison,East Mollychester,107139,324,46222,10,45.0,0
+Zachary Jones,Higginsbury,63681,519,15317,23,45.0,0
+Wayne Jackson,Port Heather,148187,651,35717,38,70.0,1
+Keith Jennings,New Julieport,52431,535,40784,22,35.0,0
+Joe Martin,East Joshua,135464,303,16648,19,55.0,0
+Katherine Galloway,Travishaven,145097,586,27075,14,70.0,1
+Michelle Padilla,West Aaron,74424,757,36497,20,70.0,1
+Jeffrey Moyer,Larryside,30772,449,10660,30,30.0,0
+David Francis,Meganchester,36057,626,5222,40,50.0,0
+Miguel Rodriguez,Port Kevinmouth,134247,710,39701,26,75.0,1
+Rachel Cameron,Maryburgh,120519,630,14353,5,65.0,1
+Emily Hunter,Haleyland,94260,635,23300,37,65.0,1
+Bruce Barrera,Maynardfort,88008,320,30459,37,45.0,0
+Elizabeth Adams,East Jeffreyside,77472,543,20126,2,35.0,0
+Daniel Holt,Elizabethstad,146057,784,37272,33,85.0,1
+Jonathan Wilson,Bennettfurt,114886,785,24264,19,90.0,1
+Peter Martin,East Jamesville,64675,339,28799,31,35.0,0
+Gilbert Reed,Hernandezfort,35273,515,35880,10,25.0,0
+Brandon Powell,Ballardfurt,74548,785,10077,21,80.0,1
+Karen Wood,Kingport,87433,652,47235,25,55.0,0
+Carmen Pratt,Leeville,89087,406,6099,23,55.0,0
+Isaac Grant,Mauricechester,65697,424,24009,38,40.0,0
+Tanya Mitchell,Floresburgh,109905,446,3748,13,60.0,1
+Jack Brandt,West Angela,102641,615,18483,26,70.0,1
+Michael Lambert,South Kenneth,70963,489,5890,6,45.0,0
+Charles Sanchez,Nicolechester,93483,617,14426,17,65.0,1
+Trevor Bautista,East Edward,143992,400,9828,23,60.0,1
+Sherri Shah,Port Amber,133547,622,1444,39,75.0,1
+Michelle Mitchell,Port Melanieport,100678,510,34931,38,50.0,0
+Henry Rivera,North Stephenfurt,34067,442,2682,38,40.0,0
+Jason Martin,Lozanofort,105914,638,16368,0,55.0,0
+Timothy Hill,West Walter,118117,346,40624,25,50.0,0
+William Buckley,Wilsonmouth,32875,650,41422,23,40.0,0
+Lisa Ramos,North Peggy,93624,443,9071,37,55.0,0
+Christina Herrera,West Melissa,51174,752,8617,13,80.0,1
+Joshua White,Hornefort,56896,479,5149,29,50.0,0
+Leslie Bennett,South Danielleview,104593,724,12461,35,80.0,1
+Alyssa Hayes,Kaylabury,109730,496,34188,38,50.0,0
+Jessica Murphy,Angelaport,143949,322,10205,4,50.0,0
+Charles Costa,Elliottton,83516,717,41777,1,50.0,0
+Robert Monroe,New Debbieton,64718,553,47374,28,35.0,0
+Christian Smith,Josephstad,144344,823,26455,10,95.0,1
+Sarah Jones,East Eric,99541,758,19708,34,85.0,1
+Daniel Johnson,South Heather,114246,835,43009,6,85.0,1
+Richard Miller,Raymondburgh,66471,782,29926,27,70.0,1
